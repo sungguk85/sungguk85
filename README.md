@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [nextFlow](https://github.com/oslabs-beta/NextFlow)
 
-- 🌱 I’m currently learning **AWS and Kubernetes.**
+- 🌱 I’m currently learning **System Design and Architecture.**
 
-- 💬 Ask me about **react, MongoDB and react.**
+- 💬 Ask me about **React, JS and SQL.**
 
 - 📫 How to reach me **sunggukjung@gmail.com**
 

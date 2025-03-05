@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design and Architecture.**
 
-- 💬 Ask me about **React, JS and SQL.**
+- 💬 Ask me about **React, JS/TS and PostgreSQL.**
 
 - 📫 How to reach me **sunggukjung@gmail.com**
 

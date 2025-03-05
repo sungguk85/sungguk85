@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sungguk85&label=Profile%20views&color=0e75b6&style=flat" alt="sungguk85" /> </p>
 
-- 🔭 I’m currently working on [nextFlow](https://github.com/oslabs-beta/NextFlow)
+- 🔭 I’m currently working on [nextFlow](https://github.com/oslabs-beta/NextVis)
 
 - 🌱 I’m currently learning **System Design and Architecture.**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **sunggukjung@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
